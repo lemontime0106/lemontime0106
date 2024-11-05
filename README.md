@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSAFY10kim&show_icons=true&theme=tokyonight" alt="Anurag's github stats">
+</div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SSAFY10kim&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAFY10kim&layout=compact&theme=tokyonight)
