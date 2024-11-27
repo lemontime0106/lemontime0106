@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 <br>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSAFY10kim&show_icons=true&theme=tokyonight" alt="Anurag's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lemontime0106&show_icons=true&theme=tokyonight" alt="Anurag's github stats">
 </div>
 
